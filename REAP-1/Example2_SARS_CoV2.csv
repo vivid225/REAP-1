@@ -1,0 +1,48 @@
+Assay concentration,Inhibition,Compound
+7.17,0.792810601,CalpainInhibitorIV
+3.59,0.783659126,CalpainInhibitorIV
+1.79,1,CalpainInhibitorIV
+0.9,0.792151695,CalpainInhibitorIV
+0.45,0.682480416,CalpainInhibitorIV
+0.22,0.510798741,CalpainInhibitorIV
+0.11,0.216048027,CalpainInhibitorIV
+0.06,0.120579837,CalpainInhibitorIV
+0.03,0.042828904,CalpainInhibitorIV
+0.01,0.055860605,CalpainInhibitorIV
+30,0.838641189,Chloroquine
+15,0.916465334,Chloroquine
+7.5,0.865070649,Chloroquine
+3.75,0.355223662,Chloroquine
+1.88,0.157039315,Chloroquine
+0.94,0.169192474,Chloroquine
+0.47,0.12394758,Chloroquine
+0.23,0.12636357,Chloroquine
+0.12,0.060106889,Chloroquine
+0.06,0.045244893,Chloroquine
+7.5,0.519877004,Hydroxychloroquine
+3.75,0.26004832,Hydroxychloroquine
+1.88,0.192913098,Hydroxychloroquine
+0.94,0.144593308,Hydroxychloroquine
+0.47,0.132440149,Hydroxychloroquine
+0.23,0.086902409,Hydroxychloroquine
+0.12,0.068013764,Hydroxychloroquine
+0.06,0.068013764,Hydroxychloroquine
+30,0.748444249,Remdesivir
+15,0.624423457,Remdesivir
+7.5,0.675452083,Remdesivir
+3.75,0.13976133,Remdesivir
+1.88,0.118163848,Remdesivir
+0.94,0.0576909,Remdesivir
+0.47,0.112672963,Remdesivir
+0.23,0.030016839,Remdesivir
+0.12,0.023354565,Remdesivir
+0.06,0.043414598,Remdesivir
+30,0.385899407,E64d (Aloxistatin)
+7.5,0.272567538,E64d (Aloxistatin)
+3.75,0.061058643,E64d (Aloxistatin)
+1.88,0.075334944,E64d (Aloxistatin)
+0.94,0.013910242,E64d (Aloxistatin)
+0.47,0.046123435,E64d (Aloxistatin)
+0.23,0.010615711,E64d (Aloxistatin)
+0.12,0,E64d (Aloxistatin)
+0.06,0.015740537,E64d (Aloxistatin)
